@@ -1,5 +1,5 @@
 # Summary
-Skin in the game, allows for systems to improve, as it puts symmetry in the outcomes. Time, combined with SITG, makes systems evolved. A system where individuals don't have SITG cannot improve, as the bad actors are never removed.
+Skin in the game, allows for systems to improve, as it puts symmetry in the outcomes. Time, combined with SITG, makes systems evolve. A system where individuals don't have SITG cannot improve, as the bad actors are never removed.
 
 # Key takeaways
 - Hammurabi's best known injuction: "If a builder builds a house an the house collapses and causes the death of the owner of the house - the builder shall be put to death" -> Compare the quality of the houses architects build for others and their own
