@@ -1,4 +1,4 @@
-# Summary
+# Elevator pitch
 Skin in the game, allows for systems to improve, as it puts symmetry in the outcomes. Time, combined with SITG, makes systems evolve. A system where individuals don't have SITG cannot improve, as the bad actors are never removed.
 
 # Key takeaways
