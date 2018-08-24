@@ -2,7 +2,7 @@
 Skin in the game, allows for systems to improve, as it puts symmetry in the outcomes. Time, combined with SITG, makes systems evolve. A system where individuals don't have SITG cannot improve, as the bad actors are never removed.
 
 # Key takeaways
-- Hammurabi's best known injuction: "If a builder builds a house an the house collapses and causes the death of the owner of the house - the builder shall be put to death" -> Compare the quality of the houses architects build for others and their own
+- Hammurabi's best known injuction: "If a builder builds a house and the house collapses and causes the death of the owner of the house - the builder shall be put to death" -> Compare the quality of the houses architects build for others and their own
 - *Golden Rule:* treat others the way you would like them to treat you
 - *Silver Rule:* do not treat others the way you would not like them to treat you 
 - Silver Rule >> Golden Rule -> We know with more clarity what is bad than what is good
