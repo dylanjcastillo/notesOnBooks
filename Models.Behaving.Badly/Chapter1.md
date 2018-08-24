@@ -1,4 +1,4 @@
-# Summary
+# Elevator pitch
 We build models to predict the future and generate certainty. Nevertheless, models tend to fail and don't accomodate for many things of reality. So one has to be careful not to conflate the two.
 
 # Key takeaways
