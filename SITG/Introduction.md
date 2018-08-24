@@ -1,4 +1,4 @@
-# Summary
+# Elevator pitch
 The central message behind SITG is that if you have a share of the benefits, you should also have a share of the harm.
 
 # Key takeaways:
