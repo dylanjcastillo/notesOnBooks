@@ -1,4 +1,4 @@
-# Summary
+# Elevator pitch
 Not having skin in the game, being separated from the consequences of your actions, do not allow you (or any system) to improve.
 
 # Key takeaways
@@ -14,4 +14,4 @@ Not having skin in the game, being separated from the consequences of your actio
 - Systems learn via negativa (we know what it is wrong with more clarity than what is right) -> e.g. How many times have you touched a burning pan after you got burn the first time?
 
 # Controversial
-- The example about Price Andrew taking more risks than "commoners" during the Falkland war of 1982, might not be completely accurate. -> Was he really taking more risks (or even the same amount) as of other soliders?
+- I'm skeptical of the example about Price Andrew taking more risks than "commoners" during the Falkland war of 1982 -> Was he really taking more risks (or even the same) as of other soldiers?
